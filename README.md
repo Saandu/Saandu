@@ -1,6 +1,6 @@
 # Alexandru Lungu
 
-### AI Software Engineer · Full-Stack · React · TypeScript
+### AI-Assisted Software Engineer · Full-Stack · React · TypeScript
 
 I build and operate production web applications end to end: product interfaces, data models, security boundaries, integrations, CI/CD, and live releases.
 
@@ -18,10 +18,10 @@ Based in Timișoara, Romania. Open to contract and product-engineering opportuni
 
 ## Selected production systems
 
-- **[Timber Logistic](https://timber-logistic.ro)** — an actively developed Romanian B2B timber RFQ marketplace built with React 19, TypeScript, Supabase, and PostgreSQL. It includes sealed bidding, database-enforced state transitions, payment and invoicing integrations, and delivery/dispute workflows. Current development adds ANAF-backed supplier CUI verification and fail-closed SUMAL transport-document checks before a delivery can be accepted.
-- **[Clinica Naturell](https://naturell.ro)** — a 29-route React 19/TypeScript clinic platform with booking, staff-managed content, privacy controls, build-time prerendering, structured data, and campaign infrastructure.
-- **[AVR BPPS-6 Veterans Association](https://veteranibpps6.org)** — a trilingual React/Firebase memorial and publishing platform designed for non-technical volunteers, with an automated media pipeline and crawlable static output.
-- **Industrial condition monitoring, 2023** — a private client-owned Vue 3/TypeScript operator dashboard using live InfluxDB telemetry and MQTT-over-WebSocket controls. [Kinetiq](https://github.com/Saandu/kinetiq) is a separate 2026 public rebuild with fictional data and no client code or infrastructure.
+- **[Timber Logistic](https://timber-logistic.ro):** an actively developed Romanian B2B timber RFQ marketplace built with React 19, TypeScript, Supabase, and PostgreSQL. It includes sealed bidding, database-enforced state transitions, payment and invoicing integrations, and delivery/dispute workflows. Current development adds ANAF-backed supplier CUI verification and fail-closed SUMAL transport-document checks before a delivery can be accepted.
+- **[Clinica Naturell](https://naturell.ro):** a 29-route React 19/TypeScript clinic platform with booking, staff-managed content, privacy controls, build-time prerendering, structured data, and campaign infrastructure.
+- **[AVR BPPS-6 Veterans Association](https://veteranibpps6.org):** a trilingual React/Firebase memorial and publishing platform designed for non-technical volunteers, with an automated media pipeline and crawlable static output.
+- **Industrial condition monitoring, 2023:** a private client-owned Vue 3/TypeScript operator dashboard using live InfluxDB telemetry and MQTT-over-WebSocket controls. [Kinetiq](https://github.com/Saandu/kinetiq) is a separate 2026 public rebuild with fictional data and no client code or infrastructure.
 
 Client source code and sensitive implementation details remain private. Public demonstrations and case studies document only work I am permitted to present.
 
