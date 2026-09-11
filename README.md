@@ -27,9 +27,12 @@ Client source code and sensitive implementation details remain private. Public d
 
 ## Core stack
 
-**Frontend:** React, TypeScript, Vue, Next.js, Tailwind CSS, accessible responsive UI  
-**Backend and data:** PostgreSQL, Supabase, Firebase, Node.js, row-level security, serverless functions  
-**Delivery:** GitHub Actions, Firebase Hosting, Vite, prerendering, dependency and bundle security checks  
+**Frontend:** React, TypeScript, Vue, Next.js, Tailwind CSS, accessible responsive UI
+
+**Backend and data:** PostgreSQL, Supabase, Firebase, Node.js, row-level security, serverless functions
+
+**Delivery:** GitHub Actions, Firebase Hosting, Vite, prerendering, dependency and bundle security checks
+
 **Integrations:** NETOPIA, Oblio/e-Factura, Resend, Cloudinary, MQTT, InfluxDB
 
 ## Contact
