@@ -37,4 +37,4 @@ Client source code and sensitive implementation details remain private. Public d
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/alexandru-lungu-b3b840243/) · [Email](mailto:thismaildot@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alexandru-lungu-dev/) · [Email](mailto:thismaildot@gmail.com)
