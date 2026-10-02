@@ -1,8 +1,8 @@
 # Alexandru Lungu
 
-### AI Software Engineer | Full-Stack | React & TypeScript
+### Full-Stack Engineer | React, TypeScript & Node.js | AI-Assisted Development
 
-I build and operate production web applications end to end: product interfaces, data models, security boundaries, integrations, CI/CD, and live releases.
+I am a full-stack engineer. I build and operate production web applications end to end: product interfaces, data models, security boundaries, integrations, CI/CD, and live releases.
 
 I use AI throughout engineering for codebase exploration, architecture, implementation, debugging, test design, security review, and documentation. The output is still verified through types, automated tests, database constraints, CI pipelines, and post-deployment checks. AI makes iteration faster; responsibility for the result stays with me.
 
