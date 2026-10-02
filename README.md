@@ -1,6 +1,6 @@
 # Alexandru Lungu
 
-### Full-Stack Engineer | React, TypeScript & Node.js | AI-Assisted Development
+### Full Stack Engineer | React, TypeScript & Node.js | AI-Assisted Development
 
 I am a full-stack engineer. I build and operate production web applications end to end: product interfaces, data models, security boundaries, integrations, CI/CD, and live releases.
 
